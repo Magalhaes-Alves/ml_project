@@ -1,0 +1,5 @@
+,learning_rate,max_depth,n_estimators,depth,iterations
+xgb,0.1,4,70,,
+lgb,0.1,10,70,,
+cat,0.1,,,6,110
+gb,0.1,4,110,,
