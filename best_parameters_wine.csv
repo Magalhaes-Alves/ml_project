@@ -1,5 +1,5 @@
-,regressor__learning_rate,regressor__max_depth,regressor__n_estimators,regressor__depth,regressor__iterations
-xgb,0.1,10.0,110.0,,
-lgb,0.1,4.0,10.0,,
-cat,0.1,,,10.0,110.0
-gb,0.1,8.0,110.0,,
+,regressor__learning_rate,regressor__max_depth,regressor__n_estimators,learning_rate,depth,iterations,max_depth,n_estimators
+xgb,0.1,10.0,110.0,,,,,
+lgb,0.1,,110.0,,,,,
+cat,,,,0.1,6.0,110.0,,
+gb,,,,0.1,,,4.0,110.0
